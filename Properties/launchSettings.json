@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "HeicJpgBatchC (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "HeicJpgBatchC (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
